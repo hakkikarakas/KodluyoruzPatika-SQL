@@ -1,0 +1,2 @@
+# KodluyoruzPatika-SQL
+ Ödev1
