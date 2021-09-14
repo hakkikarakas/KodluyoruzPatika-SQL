@@ -1,8 +1,6 @@
 # KodluyoruzPatika-SQL
 # Ödev 1
 
-#### Aşağıdaki sorgu senaryolarını **[dvdrental](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)** örnek veri tabanı üzerinden gerçekleştiriniz.
-
 1. **film** tablosunda bulunan **title** ve **description** sütunlarındaki verileri sıralayınız.
 2. **film** tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük **VE** 75 ten küçük olma koşullarıyla sıralayınız.
 3. **film** tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 **VE** replacement_cost 12.99 **VEYA** 28.99 olma koşullarıyla sıralayınız.
