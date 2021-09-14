@@ -30,7 +30,7 @@
 4. **country** tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
 5. **city** tablosundaki şehir isimlerinin kaçtanesi 'R' veya r karakteri ile biter?
 
-# Ödev 5
+# Ödev  5
 
 1. **film** tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en uzun (length) 5 filmi sıralayınız.
 2. **film** tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en kısa (length) ikinci 5 filmi sıralayınız.
