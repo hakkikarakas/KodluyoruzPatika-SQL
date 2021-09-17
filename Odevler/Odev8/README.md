@@ -5,7 +5,7 @@
 
 2. Oluşturduğumuz **employee** tablosuna '[Mockaroo](https://www.mockaroo.com/)' servisini kullanarak 50 adet veri ekleyelim.
 
-   ![Screenshot_13](C:\Users\Hakki\Desktop\Screenshot_13.png)
+   ![Resim](https://i.hizliresim.com/ljxievp.png)
 
 3. Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 
